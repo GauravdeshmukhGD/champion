@@ -1,3 +1,3 @@
 # champion
 fintech organization.
-author - gaurav deshmukh
+author - gaurav deshmukh (champion)
